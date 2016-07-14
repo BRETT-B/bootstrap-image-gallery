@@ -1,0 +1,23 @@
+img {
+	padding-top: 7px;
+}
+.col-md-12 {
+	border-bottom: 2px solid black;
+}
+.navbar {
+	line-height: 50px;
+}
+.container-fluid a{
+	padding-right: 5px;
+	padding-left: 5px;
+	text-align: center;
+	color: white;
+}
+a:visited:hover{
+	text-decoration: none;	
+}
+a:hover {
+	color: red;
+	background-color: royalblue;
+	text-decoration: none;
+}
